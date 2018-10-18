@@ -1,2 +1,2 @@
 # SGO-MAD
-Materiály k mému povídání s Slovanskm gymnáziu v Olomouci.
+Materiály k mému povídání na Slovanskm gymnáziu v Olomouci.
